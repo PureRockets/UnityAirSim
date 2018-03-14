@@ -1,5 +1,5 @@
 # UnityAirSim
-You'll need the AirSim GitHub project locally, use AirLib/AirLib.vcxproj
+You'll need the AirSim GitHub project locally, use AirLib/AirLib.vcxproj.
 Open MyLib.sln to open the solution. 
 You will likely need to refresh each projects References, I used Project references.
 MyLib is a "Hello World" type C++ Library to simulate AirLib.lib.
