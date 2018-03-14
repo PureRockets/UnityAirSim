@@ -1,0 +1,8 @@
+C:\Users\Jeff\Documents\GitHub\UnityAirSim\MyLibConsole\obj\Debug\MyLibConsole.csprojResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\GitHub\UnityAirSim\MyLibConsole\bin\Debug\MyLibConsole.exe.config
+C:\Users\Jeff\Documents\GitHub\UnityAirSim\MyLibConsole\bin\Debug\MyLibConsole.exe
+C:\Users\Jeff\Documents\GitHub\UnityAirSim\MyLibConsole\bin\Debug\MyLibConsole.pdb
+C:\Users\Jeff\Documents\GitHub\UnityAirSim\MyLibConsole\bin\Debug\MyLibWrapper.dll
+C:\Users\Jeff\Documents\GitHub\UnityAirSim\MyLibConsole\bin\Debug\MyLibWrapper.pdb
+C:\Users\Jeff\Documents\GitHub\UnityAirSim\MyLibConsole\obj\Debug\MyLibConsole.exe
+C:\Users\Jeff\Documents\GitHub\UnityAirSim\MyLibConsole\obj\Debug\MyLibConsole.pdb
